@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @ArshadAhamad
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Software engineering
-
-
-<!---
-ArshadAhamad/ArshadAhamad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+An enthusiastic, self-motivated, responsible, and hardworking undergraduate with good communication
+skills, willing to learn new technologies, take up new challenges, and work in a challenging environment.
+Confident in the ability to come up with new ideas. Quick learner and enjoys meeting deadlines.
+Experienced in object-oriented programming designing, coding and testing.
